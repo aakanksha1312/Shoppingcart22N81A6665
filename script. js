@@ -20,10 +20,7 @@ let cartItems = [];
   
      totalElement.innerText = total; 
  } 
-  
-  
-  
-  
+    
  // Add product and cart logic similar to the previous example 
   
  function checksout() { 
