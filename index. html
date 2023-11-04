@@ -34,15 +34,15 @@
   
          <div class="products"> 
          <div class="product"> 
-             <IMG SRC="images\VERSACEPERFUME.jpg" width="100" height="100"></img>
-             <h2>phone case</h2> 
+             <IMG SRC="images\glasses.jpg" width="200" height="200"></img>
+             <h2>GLASSES</h2> 
              <p>Price: $100</p> 
              <button class="add-to-cart" onclick="addToCart('phone case', 100)">Add to Cart</button> 
          </div> 
   
          <div class="product"> 
-             <IMG SRC="images\SHOES.jpg" width="100" height="100"></img>
-             <h2>smart watch</h2> 
+             <IMG SRC="images\earrings.jpg" width="300" height="300"></img>
+             <h2>earrngs</h2> 
              <p>Price: $200</p> 
              <button class="add-to-cart" onclick="addToCart('smart watch', 200)">Add to Cart</button> 
          </div> 
