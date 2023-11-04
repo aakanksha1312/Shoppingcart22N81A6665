@@ -37,14 +37,14 @@
              <IMG SRC="images\glasses.jpg" width="200" height="200"></img>
              <h2>GLASSES</h2> 
              <p>Price: $100</p> 
-             <button class="add-to-cart" onclick="addToCart('phone case', 100)">Add to Cart</button> 
+             <button class="add-to-cart" onclick="addToCart('glasses', 100)">Add to Cart</button> 
          </div> 
   
          <div class="product"> 
              <IMG SRC="images\earrings.jpg" width="300" height="300"></img>
              <h2>earrngs</h2> 
              <p>Price: $200</p> 
-             <button class="add-to-cart" onclick="addToCart('smart watch', 200)">Add to Cart</button> 
+             <button class="add-to-cart" onclick="addToCart('earrings', 200)">Add to Cart</button> 
          </div> 
              </div> 
   
